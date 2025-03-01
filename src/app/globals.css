@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 :root {
-  --Black: #232323
-  --Gotham: #243D66
+  --Black: #232323;
+  --Gotham: #243D66;
   --background: linear-gradient(#CBD5EB,#F0D9CC);
   --foreground: #171717fa;
 }
