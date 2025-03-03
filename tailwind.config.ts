@@ -11,6 +11,8 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        black: "var(--Black)",
+        lavendar: "var(--Lavendar)",
       },
     },
   },
