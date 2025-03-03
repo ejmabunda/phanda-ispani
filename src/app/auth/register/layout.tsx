@@ -8,7 +8,7 @@ export default function AuthLayout({
             <body>
                 {/* Layout UI */}
                 {/* Place children where you want to render a page or nested layout */}
-                <main className="h-screen flex flex-col justify-between py-10">{children}</main>
+                <main>{children}</main>
             </body>
         </html>
     )
