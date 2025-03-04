@@ -9,7 +9,7 @@ export default function Auth() {
         {
             'name': 'Sign Up',
             'icon': 'None',
-            'link': '/register'
+            'link': 'auth/register'
         },
         {
             'name': 'Continue with Google',
