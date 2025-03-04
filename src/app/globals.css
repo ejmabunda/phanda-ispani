@@ -26,6 +26,7 @@ body {
   color: var(--foreground);
   background: var(--Gradient);
   font-family: var(--body-text);
+  font-size: .8rem;
 
   h1,
   h2,
